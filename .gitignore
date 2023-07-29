@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Watson project ignores
-*/sensitive_info.py
+sensitive_info.py/
