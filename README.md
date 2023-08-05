@@ -15,7 +15,7 @@ I am creating my personal AI workflow using the Kaggle competition "Contradictor
    
     ![image](https://github.com/DillonWall/Watson/assets/49173127/00e04972-6c02-4aae-a709-6f2b5ab5c410)
 
-  * Import the CSV files from the `1_CSV Data` folder into tables in the watson schema named `train` and `test` with their respective data.
+  * Import the CSV files from the `1_CSV Data` folder into the `train` and `test` tables with their respective data.
 * For EDA to work properly, you must create a new `2_EDA\sensitive_info.py` file similar to `2_EDA\sensitive_info.py.example` except with connection info for your postgres database.
  
 ## Usage
