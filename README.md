@@ -3,9 +3,9 @@ I am creating my personal AI workflow using the Kaggle competition "Contradictor
 
 ## Installation
 * Clone the repo to your local machine.
-* (recommended) Setup a clean Anaconda environment with Python 3.11.
+* Setup a clean Anaconda environment with `Python 3.11.4`.
 * Data must be ingested into a PostgreSQL database for the scripts to work correctly.
-  * Create a new schema named `watson`
+  * Create a new schema named `watson`.
   * Create 2 tables named `train` and `test` with the following columns:
     * `train`
 
