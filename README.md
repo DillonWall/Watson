@@ -15,7 +15,7 @@ I am creating my personal AI workflow using the Kaggle competition "Contradictor
    
     ![image](https://github.com/DillonWall/Watson/assets/49173127/00e04972-6c02-4aae-a709-6f2b5ab5c410)
 
-  * Import the CSV files from the `1_CSV Data` folder into the `train` and `test` tables with their respective data.
+  * Import the CSV files from the `1_CSV_Data` folder into the `train` and `test` tables with their respective data.
  
     ![image](https://github.com/DillonWall/Watson/assets/49173127/b0272712-19e0-424d-bd1a-e9b36c7e0197)
 
