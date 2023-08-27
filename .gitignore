@@ -161,3 +161,4 @@ cython_debug/
 
 # Watson project ignores
 2_EDA/sensitive_info.py
+*.pt
