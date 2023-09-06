@@ -1,0 +1,3 @@
+[submodule "4_HuggingFace_App/Watson-App"]
+	path = 4_HuggingFace_App/Watson-App
+	url = https://huggingface.co/spaces/MutualAbsorb/Watson-App
