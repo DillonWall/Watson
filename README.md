@@ -1,5 +1,7 @@
 # Watson
-I am creating my personal AI workflow using the Kaggle competition "Contradictory, My Dear Watson"
+My personal AI workflow using the Kaggle competition "Contradictory, My Dear Watson"
+
+You may test the finished model out at https://huggingface.co/spaces/MutualAbsorb/Watson-App
 
 ## Installation
 * Clone the repo to your local machine.
